@@ -23,8 +23,7 @@ body {
     font-family: LobsterTwo;
    }
 .Bac{
-   background-image:url('https://gallery.yopriceville.com/var/albums/Holidays-Frames/Transparent_Christmas_Photo_Frame_with_Pine_and_Ornaments.png?m=1381446000');
-  
+   background-image:url('https://gallery.yopriceville.com/var/albums/Holidays-Frames/Transparent_Christmas_Photo_Frame_with_Pine_and_Ornaments.png');
 }
 .card {
     height: 62.5vmin;
