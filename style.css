@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     margin: 0;
-    color: #551a8b;
+    color: #d62929;
 }
 
 @font-face {
@@ -65,8 +65,10 @@ body {
 .flower {
     overflow: hidden;
     background-size: cover;
-    background-position: center;
-    background-image: url('img/flowers.png');
+   
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwqNHOTWRC95Wh6v5lDgvCP-q6XuhcV2JBDW5XTNNAgXZDxQX');
+ background-image:100px;
+    
 }
 
 .control-panel {
